@@ -1,2 +1,3 @@
 # wYgrani
-#siema
+pupa
+dupa
