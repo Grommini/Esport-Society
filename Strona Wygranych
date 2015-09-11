@@ -2,8 +2,7 @@
 <head>
      <title> wYgrani </title>
 </head>
-<body><h1><p style="color: red; ">Oficjalna Strona Kanalu wYgrani</p></h1>
-<body background="1.jpg" bgproperties="fixed">
+<center><h1><p style="color: red; ">wYgrani</p></h1></center>
+<center><h1 style="letter-spacing: 1mm; border: 3px double; padding: 5px; ">Oficjalna Strona</h1></center>
+<h1 style="font-variant: small-caps; text-align: center; color: darkseagreen; background-color: black; ">Wkrotce ukaze sie nowy filmik</h1> 
 </body>
-
-
