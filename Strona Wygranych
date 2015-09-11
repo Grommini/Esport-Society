@@ -4,5 +4,9 @@
 </head>
 <center><h1><p style="color: red; ">wYgrani</p></h1></center>
 <center><h1 style="letter-spacing: 1mm; border: 3px double; padding: 5px; ">Oficjalna Strona</h1></center>
-<h1 style="font-variant: small-caps; text-align: center; color: darkseagreen; background-color: black; ">Wkrotce ukaze sie nowy filmik</h1> 
+<marquee><font color="red" size="6">Wkrotce ukaze sie nowy film</font></marquee> 
+
 </body>
+
+
+
